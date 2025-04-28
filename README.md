@@ -28,7 +28,7 @@ Revenue & Profitability: Understand profit margins and analyze revenue trends.
 Forecasting: Predict future sales trends based on historical data.
 ## Dashboard:
 ![Power BI Desktop 28-04-2025 09_37_27](https://github.com/user-attachments/assets/b0e1e7fd-af17-4cd7-86a9-0d3cad4ac64a)
-## Project Insight
+## Project Insight:
 The E-commerce Power BI Dashboard provides real-time insights into key metrics like sales, customer behavior, product performance, and profitability. It allows businesses to track revenue trends, analyze customer segments, optimize inventory, and forecast future sales, all in one interactive platform.
-Conclusion
+## Conclusion:
 This Power BI dashboard streamlines data analysis for e-commerce businesses, turning complex data into actionable insights. It helps businesses make data-driven decisions to improve sales, customer satisfaction, and profitability, making it a valuable tool for optimizing operations and strategy.
