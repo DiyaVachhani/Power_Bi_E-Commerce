@@ -14,3 +14,5 @@ Analyze Product Performance to identify the top-performing products.
 Use the Revenue & Profitability section to evaluate how well your business is performing financially.
 
 The Forecasting tool helps to predict future trends based on your data.
+## Dashboard Interaction:
+-<a href="https://github.com/DiyaVachhani/Power_Bi_E-Commerce/blob/main/Power%20BI%20Desktop%2028-04-2025%2009_37_27.png">View Dashboard</a>
